@@ -9,4 +9,5 @@
 class new_test
 {
 spdofvnjs
+wokvnm
 }
