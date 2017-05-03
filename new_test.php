@@ -10,4 +10,5 @@ class new_test
 {
 spdofvnjs
 wokvnm
+ifinvksf;s;fv;afavmdfs;var
 }
